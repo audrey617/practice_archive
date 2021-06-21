@@ -1,5 +1,5 @@
 // FILENAME: yl6274_hw9_main.cpp
-// PROGRAMMER: Yunqi 
+// PROGRAMMER: Audrey 
 // DATE: 6/8/2021
 // COMPILER: Clang++
 // PURPOSE: Initialize the world with 5 doodlebugs and 100 ants. After each time step, prompt the user to press Enter to move to the next time step. 
